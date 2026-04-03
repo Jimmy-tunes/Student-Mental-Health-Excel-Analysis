@@ -23,4 +23,8 @@ Pivot Tables and charts were used to explore patterns and compare how mental hea
 Used Pivot Tables to examine relationships between mental health conditions and factors like course, gender, age, and academic performance. 
 - Created charts (clustered and stacked column charts) to clearly present patterns and comparisons. 
 - Designed a simple interactive dashboard using charts and slicers for better data exploration. 
-- Identified key trends and summarized findings on student mental health and help-seeking behavior. 
+- Identified key trends and summarized findings on student mental health and help-seeking behavior.
+
+- ## Dashboard
+  ![Mental Health Analysis](https://github.com/user-attachments/assets/c40b0cbd-1b05-461d-ad39-2f76310111a2)
+ 
