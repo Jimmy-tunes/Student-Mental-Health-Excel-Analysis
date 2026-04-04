@@ -27,4 +27,17 @@ Used Pivot Tables to examine relationships between mental health conditions and 
 
 - ## Dashboard
   ![Mental Health Analysis](https://github.com/user-attachments/assets/c40b0cbd-1b05-461d-ad39-2f76310111a2)
+
+  # Project Insights
+## Variation Across Courses
+Mental health challenges vary significantly by course. While some courses like Accounting show little to no reported depression, others like Nursing and BIT show higher levels, indicating uneven distribution of mental health issues across disciplines.
+## Academic Performance (CGPA) Impact
+Students with mid-to-lower CGPA ranges (2.50–3.49) show higher levels of depression, suggesting a possible link between academic pressure and mental health. Interestingly, very high CGPA students (3.50–4.00) also show notable levels, indicating that both low and high performers may experience stress.
+## Gender Differences
+Female students report higher levels of depression compared to male students, suggesting gender-related emotional or social factors may influence mental health experiences.
+## Age Group Trends
+Teenagers (Age 13-19) show slightly higher levels of depression compared to youth (20 and above), indicating younger students may be more vulnerable to mental health challenges.
+## Low Help-Seeking Behavior
+A significant majority of students experiencing depression do not seek professional help. Only a small percentage actively seek support, highlighting a major gap in mental health awareness and access to care.
+
  
